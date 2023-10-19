@@ -57,7 +57,7 @@ in your own words.
 
 ### Think of an appropriate activity that you associate with play. Make a list of the characteristics of that activity that make it seem playful. Are software testing and debugging also playful activities with the same characteristics? Why or why not?
 
-TODO: Provide a two-paragraph response that answers this question in your own words.
+TODO: Provide a two-paragraph response that answers this question in your own words. Or provide and defend your own analogy in your own words.
 
 ### What was the greatest challenge that you faced when completing this assignment?
 
