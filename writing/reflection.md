@@ -1,18 +1,18 @@
 # Palindrome Checking
 
 TODO: Delete all of the writing prompts and TODO markers from this file!
+NOT TODO: Generating responses with AI models is not permitted.
 TODO: Make sure that all of your responses to these technical writing questions
       have correct spelling, syntax, grammar, and formatting!
 
 ## Add Your Name Here
 
-## Program Output
+## Program Use and Output
 
-### Use four fenced code blocks to provide output from four different runs of `palindromechecker` with different inputs
+### Use four fenced code blocks to provide usage and output from four different runs of `palindromechecker` with different inputs
 
-TODO: Provide the complete command-line for your use of the `palindromechecker` program
-
-TODO: Provide the output for running `palindromechecker` in the following configurations:
+TODO: For each of the four outputs below, be sure to also provide what you
+typed into the command-line for your use of the `palindromechecker` program
 
 - Recursive:
   - Input a `word` that is a palindrome
@@ -39,16 +39,19 @@ TODO: Depending on your implementation, it should be possible to achieve `100%`
 
 TODO: Use a fenced code block to provide the requested source code
 TODO: Write at least one paragraph to explain the request source code
+in your own words.
 
 #### An example of a test case for the `util` module of the `palindromechecker`
 
 TODO: Use a fenced code block to provide the requested source code
 TODO: Write at least one paragraph to explain the request source code
+in your own words.
 
 #### An example of a test case for the `palindrome` module of the `palindromechecker`
 
 TODO: Use a fenced code block to provide the requested source code
 TODO: Write at least one paragraph to explain the request source code
+in your own words.
 
 ## Professional Development
 
